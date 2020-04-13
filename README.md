@@ -2,4 +2,4 @@
 
 Use in the command line:
 
- python3 Evaluation_script.py <reference xml> <candidates xml>
+ python3 Evaluation_script.py \<reference xml\> \<candidates xml\>
