@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id19">
+      <generatedtripleset>
+        <gtriple>Aarhus | leaderName | Jacob_Bundsgaard</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Airport" eid="Id18">
+      <generatedtripleset>
+        <gtriple>Antwerp_International_Airport | operatedBy | Government_of_Flanders</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Airport" eid="Id21">
+      <generatedtripleset>
+        <gtriple>Ashgabat_International_Airport | ICAO_Location_Identifier | &quot;UTAA&quot;</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Airport" eid="Id11">
+      <generatedtripleset>
+        <gtriple>Netherlands_Airport | runway_Surface | Tarmac</gtriple>
+		<gtriple>Schiphol | cityServed | Amsterdam</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Airport" eid="Id5">
+      <generatedtripleset>
+        <gtriple>Afonso_Pena_International_Airport | operatingOrganisation | Infraero</gtriple>
+		<gtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Artist" eid="Id18">
+      <generatedtripleset>
+        <gtriple>Alison_O'Donnell | genre | Jazz</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Artist" eid="Id12">
+      <generatedtripleset>
+        <gtriple>Alfredo_Zitarrosa | occupation | singer</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Artist" eid="Id23">
+      <generatedtripleset>
+        <gtriple>Andra | sings | R&amp;B</gtriple>
+        <gtriple>Alternative_rock | style | New_wave_music</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Artist" eid="Id20">
+      <generatedtripleset>
+        <gtriple>Blues | isPartOf | Chicago_Blues</gtriple>
+        <gtriple>Andy_Black | plays | Chicago_Blues</gtriple>
+		<gtriple>Andy_Black | instrument | Guitar</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Artist" eid="Id17">
+      <generatedtripleset>
+        <gtriple>Allison_Donnell | plays | Alternative_Blues</gtriple>
+        <gtriple>Allison_Donnell | signedBy | Capitol_Records</gtriple>
+		<gtriple>Banjo | isPartOf | String_Instruments</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Astronaut" eid="Id2">
+      <generatedtripleset>
+        <gtriple>United_Kingdom | primeMinister | Boris_Johnson</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Astronaut" eid="Id6">
+      <generatedtripleset>
+        <gtriple>Elliot_See | diedIn | Texas</gtriple>
+		<gtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Astronaut" eid="Id8">
+      <generatedtripleset>
+        <gtriple>New_Hampshire | bird | Purple_finch</gtriple>
+        <gtriple>Alan_Shepard | spent | 9 (days)</gtriple>
+        <gtriple>Joe_Exotic | favoriteAnimal | Tiger</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Astronaut" eid="Id4">
+      <generatedtripleset>
+		<gtriple>Elliot_See | isFrom | America</gtriple>
+        <gtriple>Elliot_See | birthPlace | Dallas</gtriple>
+		<gtriple>Elliot_See | location | Texas</gtriple>
+		<gtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</gtriple>
+      </generatedtripleset>
+    </entry>
+    <entry category="Astronaut" eid="Id7">
+      <generatedtripleset>
+		<gtriple>Elliot_See | died | &quot;1966-02-28&quot;</gtriple>
+		<gtriple>Joe_Exotic | favoriteAnimal | Tiger</gtriple>
+        <gtriple>St._Louis | isPartOf | Kingdom_of_France</gtriple>
+        <gtriple>Elliot_See | deathPlace | St._Louis</gtriple>
+		<gtriple>Joe_Exotic | guiltyOf | Murder_for_Hire</gtriple>
+      </generatedtripleset>
+    </entry>
+  </entries>
+</benchmark>

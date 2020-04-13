@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Appleton_International_Airport | runwayLength | &quot;2439.01&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Appleton_International_Airport | runwayLength | 2439.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length of Appleton International Airport is 2,439.</lex>
+      <lex comment="good" lid="Id2">The runway length of the Appleton International airport is 2439 units.</lex>
+      <lex comment="good" lid="Id3">The runway length of Appleton International Airport is 2439.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Antwerp_International_Airport | operator | Flemish_Government</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antwerp_International_Airport | operatingOrganisation | Flemish_Government</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Antwerp International Airport is operated by the Flemish Government.</lex>
+      <lex comment="good" lid="Id2">The operating organisation of Antwerp International airport is the Flemish government.</lex>
+      <lex comment="good" lid="Id3">Antwerp International Airport is operated by the Flemish government.</lex>
+    </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | icaoLocationIdentifier | &quot;(Location of airport in Turkmenistan)&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | ICAO_Location_Identifier | &quot;UTAA&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">UTAA is the ICAO Location Identifier of Ashgabat International Airport.</lex>
+      <lex comment="good" lid="Id2">The ICAO Location Identifier of Ashgabat International Airport is UTAA.</lex>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | r5Surface | &quot;Asphalt&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | 5th_runway_SurfaceType | &quot;Asphalt&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 5th runway at Amsterdam airport Schiphol has an asphalt surfacing.</lex>
+      <lex comment="good" lid="Id2">The fifth runway of Amsterdam Airport Schiphol has an asphalt surface.</lex>
+      <lex comment="good" lid="Id3">The 5th runway of the Amsterdam Airport Schiphol is asphalt.</lex>
+    </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Afonso_Pena_International_Airport | cityServed | Curitiba</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Afonso_Pena_International_Airport | city | Curitiba</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Afonso_Pena_International_Airport | cityServed | Curitiba</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Afonso Pena International Airport serves the city of Curitiba.</lex>
+      <lex comment="good" lid="Id2">Afonso Pena International Airport serves Curitiba.</lex>
+    </entry>
+    <entry category="Artist" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
+        <otriple>Alison_O'Donnell | instrument | &quot;Voice, bodhrán, percussion, autoharp&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
+        <mtriple>Alison_O'Donnell | instrument | &quot;Voice, bodhrán, percussion, autoharp&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell is a jazz musician who sings and also plays the bodhran, percussion and the autoharp.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell performs jazz music, she plays the bodhran, percussion, and autoharp in addition to singing.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell performs jazz music and is a singer and also plays the bodhran, percussion and autoharp.</lex>
+    </entry>
+    <entry category="Artist" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | genre | Milonga_(music)</otriple>
+        <otriple>Alfredo_Zitarrosa | background | &quot;solo_singer&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | background | &quot;solo_singer&quot;</otriple>
+        <otriple>Alfredo_Zitarrosa | genre | Milonga_(music)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | background | &quot;solo_singer&quot;</mtriple>
+        <mtriple>Alfredo_Zitarrosa | genre | Milonga_(music)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The musical genre of Alfredo Zitarrosa, who started out as a solo singer, is Milonga.</lex>
+      <lex comment="good" lid="Id2">Solo singer Alfredo Zitarrosa is a Milonga stylist.</lex>
+      <lex comment="good" lid="Id3">Alfredo Zitarrosa is a Milonga musician, who started out as a solo singer.</lex>
+    </entry>
+    <entry category="Artist" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
+        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
+        <otriple>Rhythm_and_blues | stylisticOrigins | Blues</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andra_(singer) | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Rhythm_and_blues | stylisticOrigin | Blues</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Andra sings rhythm and blues, which originated from blues.</lex>
+      <lex comment="good" lid="Id2">Andra performs rhythm and blues music, a style that originated from blues.</lex>
+      <lex comment="good" lid="Id3">Andra is a singer of rhythm and blues which originated from the blues.</lex>
+    </entry>
+    <entry category="Artist" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alternative_rock | musicSubgenre | Christian_alternative_rock</otriple>
+        <otriple>Andrew_White_(musician) | genre | Alternative_rock</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alternative_rock | musicSubgenre | Christian_alternative_rock</mtriple>
+        <mtriple>Andrew_White_(musician) | genre | Alternative_rock</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The musician Andrew White's genre is alternative rock, the genre which has the sub genre Christian alternative rock.</lex>
+      <lex comment="good" lid="Id2">The musician Andrew White's genre is alternative rock which has the subgenre of Christian alternative rock.</lex>
+      <lex comment="good" lid="Id3">Andrew White performs alternative rock music. A sub genre or alternative rock is Christian alternative rock.</lex>
+    </entry>
+    <entry category="Artist" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | genre | Folk_rock</otriple>
+        <otriple>Alison_O'Donnell | recordLabel | Floating_World_Records</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | genre | Folk_rock</mtriple>
+        <mtriple>Alison_O'Donnell | recordLabel | Floating_World_Records</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alison O'Donnell is a folk rock musician signed to Floating World Records.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell's musical genre is folk rock and her recording label is Floating World Records.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell, a folk rock artist, signed to the record label, Floating World Records.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+        <mtriple>United_States | leaderName | Joe_Biden</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey, USA (the leader of which was Joe Biden).</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id6" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>St._Louis | leaderName | Francis_G._Slay</otriple>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>St._Louis | leaderName | Francis_G._Slay</mtriple>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Elliot See, a past graduate of the University of Texas, Austin, died in St Louis where the leader is Francis G Slay.</lex>
+      <lex comment="good" lid="Id2">Elliot See, who attended the University of Texas at Austin, died in St. Louis, whose Mayor is Francis G. Slay.</lex>
+      <lex comment="good" lid="Id3">Elliot See was a student at University of Texas at Austin and died in St. Louis led by Francis G. Slay.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>New_Hampshire | bird | Purple_finch</otriple>
+        <otriple>Alan_Shepard | timeInSpace | &quot;13017.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_Hampshire | bird | Purple_finch</mtriple>
+        <mtriple>Alan_Shepard | timeInSpace | &quot;13017.0&quot;(minutes)</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire, the home of the Purple Finch, and spent 13017 minutes in space.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>Elliot_See | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>Elliot_See | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Elliot See, a US national, was born in Dallas and graduated from the University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id2">Elliot See, a US national born in Dallas, was a student at University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id3">Elliot See, a United States national born in Dallas, attended the University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id4">Elliot See (born in Dallas, United States) attended the University of Texas at Austin.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+        <otriple>St._Louis | isPartOf | Kingdom_of_France</otriple>
+        <otriple>Elliot_See | deathDate | &quot;1966-02-28&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+        <mtriple>St._Louis | isPartOf | Kingdom_of_France</mtriple>
+        <mtriple>Elliot_See | deathDate | &quot;1966-02-28&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Elliot see died on the 28th of February 1966 in St. Louis, which is part of the Kingdom of France.</lex>
+      <lex comment="good" lid="Id2">Elliot See died on 28 February, 1966 in St. Louis a part of the kingdom of France.</lex>
+    </entry>
+  </entries>
+</benchmark>
