@@ -23,7 +23,7 @@ The candidates xml should be formatted as:
 </benchmark>
 ```
 
-To run this script you need the following libraries:
+To run this script, you need the following libraries:
 
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 - [Regex](https://pypi.org/project/regex/)
