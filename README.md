@@ -34,6 +34,4 @@ To run this script you need the following libraries:
 These libraries can also be installed by running ```pip3 install -r requirements.txt```
 
 
-The command to use the script:
-
-```python3 Evaluation_script.py <reference xml> <candidates xml>```
+The command to use the script is: ```python3 Evaluation_script.py <reference xml> <candidates xml>```
