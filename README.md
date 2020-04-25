@@ -17,6 +17,7 @@ The candidates xml should be formatted as:
     <entry category="Airport" eid="Id18">
       <generatedtripleset>
         <gtriple>Antwerp_International_Airport | operatedBy | Government_of_Flanders</gtriple>
+        <gtriple>Antwerp_International_Airport | cityServed | Antwerp</gtriple>
       </generatedtripleset>
     </entry>
   </entries>
