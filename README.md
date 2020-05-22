@@ -36,3 +36,4 @@ These libraries can also be installed by running ```pip3 install -r requirements
 
 
 The command to use the script is: ```python3 Evaluation_script.py <reference xml> <candidates xml>```
+And to save the results as a json file: ```python3 Evaluation_script_json.py <reference xml> <candidates xml> <results json>```
